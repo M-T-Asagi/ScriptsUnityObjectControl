@@ -14,3 +14,8 @@ Updateに代わり、時間処理されたUpdateProcessを提供するクラス�
 TimeScaleで時間の流れる速さを設定する。
 
 Resolutionでクロックの更新頻度を設定できる。
+
+#### StickingMainCamera 
+https://github.com/M-T-Asagi/ScriptsUnityObjectControl/blob/master/Scripts/StickingMainCamera.cs
+
+メインカメラに対し初期の位置関係を維持したまま追従する処理。
