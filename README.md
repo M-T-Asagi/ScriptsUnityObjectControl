@@ -19,3 +19,8 @@ Resolutionでクロックの更新頻度を設定できる。
 https://github.com/M-T-Asagi/ScriptsUnityObjectControl/blob/master/Scripts/StickingMainCamera.cs
 
 メインカメラに対し初期の位置関係を維持したまま追従する処理。
+
+## DestroyAfterWaitSecond 
+https://github.com/M-T-Asagi/ScriptsUnityObjectControl/blob/master/Scripts/DestroyAfterWaitSecond.cs
+
+コルーチンを使って一定時間後にオブジェクトをDestroyする。
